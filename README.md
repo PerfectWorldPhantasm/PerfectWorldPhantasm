@@ -1,15 +1,6 @@
  <div align="center">
 
-<img src="good.jpg" width="500">
-
-
-
-<br>
-
-<img src="siz.jpg" width="300">
-
-<br>
-
+<img src="good.jpg" width="200">
 
 
 </div>
